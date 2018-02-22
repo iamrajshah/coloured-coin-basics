@@ -1,0 +1,3 @@
+new TESTNET address: [muuom1Fo1ZRtdCcdbMVpsP2mxT2tgaW9Ba]
+Private Key of new address (WIF format): [L5Z67AvePM2kPPBRhoMVTCSNi4empECDYRGSShZwQ1G655gCvvCy]
+
